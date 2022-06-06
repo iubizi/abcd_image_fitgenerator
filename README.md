@@ -6,6 +6,8 @@ The original file size (after nii compression) is `150GB`, the file is too large
 
 programs and notes have been desensitized.
 
+## linux version(spuercomputers) command line
+
 ```
 #!/bin/bash
 
